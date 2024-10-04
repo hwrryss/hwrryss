@@ -1,4 +1,15 @@
-## Hi there 👋
+## whoami
+Georgiy Balashov, aka hwrryss
+yet another infosec enthusiast, CTF player
+
+## current projects
+...
+welp
+
+## personal interests
+- web/web3 pentesting
+- FPS games, MOBAs, ... 
+- Reverse engineering
 
 <!--
 **hwrryss/hwrryss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
